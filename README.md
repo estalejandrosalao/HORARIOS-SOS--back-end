@@ -33,6 +33,7 @@ Rutas protegidas: enviar `Authorization: Bearer <token>`.
 | DELETE | `/api/horarios/:id` | sí |
 
 CORS permitido solo para `https://horarios-sos.onrender.com`.
+APIS: `https://horarios-sos-api.onrender.com/`,
 
 ## Despliegue en Render
 Web Service con Root Directory `backend`, build `npm install`, start `npm start`.
